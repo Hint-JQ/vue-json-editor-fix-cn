@@ -18,7 +18,7 @@ v-model：bind the [json object]
 ## 1. Install using npm
 
 ```
-npm install vue-json-editor --save
+npm install vue-json-editor-fix-cn --save
 ```
 
 ## 2. Use vue-json-editor in the vue component
@@ -32,7 +32,7 @@ npm install vue-json-editor --save
 </template>
 
 <script>
-  import vueJsonEditor from 'vue-json-editor'
+  import vueJsonEditor from 'vue-json-editor-fix-cn'
 
   export default {
     data () {
